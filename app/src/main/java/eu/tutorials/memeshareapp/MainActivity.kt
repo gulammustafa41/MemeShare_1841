@@ -1,6 +1,5 @@
 package eu.tutorials.memeshareapp
 
-import android.app.WallpaperManager.getInstance
 import android.appwidget.AppWidgetManager.getInstance
 import android.content.Intent
 import android.graphics.drawable.Drawable
@@ -33,7 +32,7 @@ class MainActivity : AppCompatActivity() {
     private fun loadMeme(){
         // Instantiate the RequestQueue.
         progressBar.visibility = View.VISIBLE
-        val url = "https://meme-api.herokuapp.com/gimme"
+        val url = "https://meme-api.com/gimme"
 
          // Request a string response from the provided URL.
         val JsonObjectRequest = JsonObjectRequest(

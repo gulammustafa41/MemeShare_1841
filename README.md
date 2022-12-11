@@ -1,7 +1,11 @@
 # MemeShare_1841
 
 MemeShare is an app that shows you Memes scrapped from throughout the Reddit using API.
+
+
 Made this Aap Using Native Kotlin
+
+
                                    #Splash Screen
 ![memeshareaapsplashscreenpic](https://user-images.githubusercontent.com/113841536/206923947-3c68c3ed-3ca2-425b-b578-613d8bcc48b6.jpeg)
 
